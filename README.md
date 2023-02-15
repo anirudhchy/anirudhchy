@@ -29,24 +29,24 @@ I'm a self taught full-stack dev and a freelancer who likes to build functional 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const anirudh = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Python", "Java"],
+    askMeAbout: ["web dev", "tech", "app dev", "blogger"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js: ["Node", "Express"],
         },
         mobileApp: {
             native: ["Android Development"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        devOps: ["Docker🐳", "Docker Compose", "Jenkins"],
+        databases: ["mongo", "MySql"],
+        misc: ["Tensorflow js", "Socket.IO", "Vite", "Prisma"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentFocus: "Exploring and learning more about cloud and backend tech everyday beacuse its just cool",
+    funFact: "Chat-GPT like AI will take my job within next 10 years"
 };
 ```
 
