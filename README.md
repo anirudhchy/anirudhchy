@@ -1,4 +1,4 @@
-# 🏄‍♂️ Hello people! I'am Anirudh 🚀
+# 🏄‍♂️ Hello people! I'm Anirudh 🚀
 
 **`Digital fabricator (Web Developer/Aspiring Tech Blogger)`**
 
