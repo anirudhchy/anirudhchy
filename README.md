@@ -9,3 +9,7 @@ I'm a self taught full-stack dev and a freelancer who likes to build functional 
 ![GitHub followers](https://img.shields.io/github/followers/xanirudh?label=Follow&style=social)
 
 ---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
